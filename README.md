@@ -1,5 +1,5 @@
 # PCB
 
-this is a repo to store some PCB I've made from various little projects
+This is a repo to store some PCB I've made from various projects
 
-I've been using Eagle in the past but in 2018 I moved to KiCad
+In every folder there is a PCB with readme, images, the eagle/KiCad files and a zip archive with the gerber files
